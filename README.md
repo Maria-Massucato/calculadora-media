@@ -14,6 +14,10 @@ Projeto prático desenvolvido para o minicurso de **Git, GitHub e Git Graph**, c
 - CSS3
 - JavaScript (Vanilla)
 
+## Hospedagem
+
+- [calculadora-media-ochre.vercel.app](https://calculadora-media-ochre.vercel.app/)
+
 ## Como Executar
 
 1. Clone este repositório:
