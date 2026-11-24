@@ -18,4 +18,4 @@ Projeto prático desenvolvido para o minicurso de **Git, GitHub e Git Graph**, c
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/SEU-USUARIO/calculadora-media.git](https://github.com/SEU-USUARIO/calculadora-media.git)
+   git clone [https://github.com/Maria-Massucato/calculadora-media.git](https://github.com/Maria-Massucato/calculadora-media.git)
